@@ -1,0 +1,9 @@
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 150%;
+    transform: translateX(-50%) translateY(-50%);
+    color: white;
+    font-size: 40px;
+    letter-spacing: 7px;
+}
